@@ -1,5 +1,6 @@
 # leandroreis-lr.github.io
 My Github.io
+https://leandroreis-lr.github.io/
 
-Used this trainingcenter tutorial:
+Used this @training-center tutorial:
 https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447
